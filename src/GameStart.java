@@ -1,4 +1,4 @@
-//游戏开始类
+//程序入口
 
 public class GameStart {
 	

@@ -3,7 +3,7 @@ import java.awt.Graphics2D;
 import java.awt.Image;
 import javax.swing.JPanel;
 
-//地图界面绘制类
+//地图界面绘制
 public class Map extends JPanel {
 
 	private static final long serialVersionUID = 6324763307548353577L;
